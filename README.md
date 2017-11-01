@@ -1,5 +1,7 @@
 # GO-Agenda-CLI
-[toc]
+
+ [toc]
+ 
 ## cobra工具应用
 cobra 是一个很好的开发Linux命令行的工具。
 ### 如何安装cobra
@@ -177,5 +179,5 @@ register called by TestUser
 
 1. 已登录的用户可以清空 自己发起 的所有会议安排
 
-##Code
+## Code
 > 代码放在了我的github上。[code](https://github.com/moandy/MygoLearn)
